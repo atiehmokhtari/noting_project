@@ -1,8 +1,4 @@
-In the name of GOD
-
-Documentation of
-
-**The Noting Project\**
+# **The Noting Project\**
 
 Created and Configured by:
 
@@ -98,7 +94,7 @@ stored data.
 > Here is my database diagram created by workbench; it shows the
 > relations between main tables:
 
-![](./image1.png){width="4.520833333333333in" height="3.53125in"}
+![](./image1.png)
 
 # Project Development Steps
 
@@ -174,7 +170,7 @@ authentication and note management system. The key features include:
 > login, the user is redirected to the homepage of the note-taking
 > system.
 
-![](./image3.png){width="6.5in" height="1.6979166666666667in"}
+![](./image3.png)
 
 ## Adding a New Note:
 
@@ -182,16 +178,16 @@ authentication and note management system. The key features include:
 > form is displayed where users enter the note details.Once submitted,
 > the note is saved in the database.
 
-![](./image4.png){width="6.5in" height="1.4236111111111112in"}
+![](./image4.png)
 
-![](./image5.png){width="6.5in" height="2.125in"}
+![](./image5.png)
 
 ## Viewing Notes:
 
 > The created note appears on the Notes Page, displaying all saved
 > notes. Users can click on any note to view its details.
 
-![](./image6.png){width="6.5in" height="1.9444444444444444in"}
+![](./image6.png)
 
 ## Editing & Deleting Notes:
 
@@ -199,7 +195,7 @@ authentication and note management system. The key features include:
 > delete it. Edits allow users to update the content, while deletion
 > removes the note permanently from the database.
 
-![](./image7.png){width="6.5in" height="1.351388888888889in"}
+![](./image7.png)
 
 ## Database Management:
 
@@ -208,10 +204,9 @@ authentication and note management system. The key features include:
 > We can see also the details of registered user saving in the users
 > table in our database and also the created note is saved in database:
 
-![](./image8.png){width="6.5in" height="2.6625in"}
+![](./image8.png)
 
-![](./image9.png){width="5.871040026246719in"
-height="3.059087926509186in"}
+![](./image9.png)
 
 # Final Words
 
